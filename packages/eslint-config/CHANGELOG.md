@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.8](https://github.com/releaseband/node-tools/compare/@releaseband/eslint-config@0.1.7...@releaseband/eslint-config@0.1.8) (2020-09-18)
+
+
+### Bug Fixes
+
+* remove private flag ([573bbd3](https://github.com/releaseband/node-tools/commit/573bbd3f7b95e3123349f986dc22cca885460201))
+
+
+
+
+
 ## [0.1.7](https://github.com/releaseband/node-tools/compare/@releaseband/eslint-config@0.1.6...@releaseband/eslint-config@0.1.7) (2020-09-18)
 
 **Note:** Version bump only for package @releaseband/eslint-config
