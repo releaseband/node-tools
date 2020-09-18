@@ -1,6 +1,6 @@
 {
   "name": "@releaseband/prettier-config",
-  "version": "0.1.3",
+  "version": "0.1.0",
   "description": "The Releaseband Team's Prettier configuration.",
   "author": "The Releaseband Team",
   "homepage": "https://releaseband.com",
@@ -9,6 +9,9 @@
     "type": "git",
     "url": "https://github.com/releaseband/node-tools.git",
     "directory": "packages/prettier-config"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "private": true,
   "main": "./index.js",
