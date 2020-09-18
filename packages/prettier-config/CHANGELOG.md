@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.1](https://github.com/releaseband/node-tools/compare/@releaseband/prettier-config@0.1.3...@releaseband/prettier-config@0.1.1) (2020-09-18)
+
+
+### Bug Fixes
+
+* revert publishConfig ([68a77a0](https://github.com/releaseband/node-tools/commit/68a77a0b50cfd21f222a0696661be42e50ddc0d3))
+
+
+
+
+
 ## [0.1.3](https://github.com/releaseband/node-tools/compare/@releaseband/prettier-config@0.1.2...@releaseband/prettier-config@0.1.3) (2020-09-18)
 
 
