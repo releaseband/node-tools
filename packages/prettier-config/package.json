@@ -10,6 +10,9 @@
     "url": "https://github.com/releaseband/node-tools.git",
     "directory": "packages/prettier-config"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "private": true,
   "main": "./index.js",
   "type": "commonjs",
