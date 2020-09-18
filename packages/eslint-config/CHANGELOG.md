@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.4](https://github.com/releaseband/node-tools/compare/@releaseband/eslint-config@0.1.3...@releaseband/eslint-config@0.1.4) (2020-09-18)
+
+
+### Bug Fixes
+
+* revert publishConfig ([68a77a0](https://github.com/releaseband/node-tools/commit/68a77a0b50cfd21f222a0696661be42e50ddc0d3))
+* version back ([cbab411](https://github.com/releaseband/node-tools/commit/cbab4115d26d9f32cc6081550595c58c40cc77b2))
+
+
+
+
+
 ## [0.1.2](https://github.com/releaseband/node-tools/compare/@releaseband/eslint-config@0.1.3...@releaseband/eslint-config@0.1.2) (2020-09-18)
 
 
