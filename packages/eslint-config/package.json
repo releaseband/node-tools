@@ -1,6 +1,6 @@
 {
   "name": "@releaseband/eslint-config",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "The Releaseband Team's ESLint configuration.",
   "author": "The Releaseband Team",
   "homepage": "https://releaseband.com",

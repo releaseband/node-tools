@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.6](https://github.com/releaseband/node-tools/compare/@releaseband/prettier-config@0.1.5...@releaseband/prettier-config@0.1.6) (2020-09-18)
+
+
+### Bug Fixes
+
+* remove todo ([ed094b6](https://github.com/releaseband/node-tools/commit/ed094b62a807d1579eaabe9a1ce2151c5de28e41))
+
+
+
+
+
 ## [0.1.5](https://github.com/releaseband/node-tools/compare/@releaseband/prettier-config@0.1.4...@releaseband/prettier-config@0.1.5) (2020-09-18)
 
 
