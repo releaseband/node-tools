@@ -13,7 +13,6 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "private": true,
   "main": "./index.js",
   "type": "commonjs",
   "peerDependencies": {
