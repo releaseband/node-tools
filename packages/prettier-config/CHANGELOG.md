@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/releaseband/node-tools/compare/@releaseband/prettier-config@0.1.8...@releaseband/prettier-config@0.2.0) (2020-09-18)
+
+
+### Features
+
+* prettier-config and eslint-config ([ad2c7e7](https://github.com/releaseband/node-tools/commit/ad2c7e713c938ce724953376d9aa4a88375c64c0))
+
+
+
+
+
 ## [0.1.8](https://github.com/releaseband/node-tools/compare/@releaseband/prettier-config@0.1.7...@releaseband/prettier-config@0.1.8) (2020-09-18)
 
 
