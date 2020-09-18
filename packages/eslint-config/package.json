@@ -1,0 +1,19 @@
+{
+  "name": "@releaseband/eslint-config",
+  "version": "0.0.0",
+  "description": "The Releaseband Team's ESLint configuration.",
+  "author": "The Releaseband Team",
+  "homepage": "https://releaseband.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/releaseband/node-tools.git",
+    "directory": "packages/eslint-config"
+  },
+  "private": true,
+  "main": "./index.js",
+  "type": "commonjs",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^14.2.0"
+  }
+}

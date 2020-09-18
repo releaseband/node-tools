@@ -1,0 +1,1 @@
+# `@releaseband/eslint-config`
