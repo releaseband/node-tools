@@ -1,3 +1,3 @@
 module.exports = {
-  '*': ['prettier --write'],
+  '*.*': ['prettier --write'],
 };
