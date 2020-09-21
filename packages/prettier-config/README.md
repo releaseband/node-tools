@@ -1,6 +1,6 @@
 # Prettier configuration
 
-The Releaseband Team's Prettier configuration.
+The Releaseband Team's Prettier configuration
 
 ## Install
 
