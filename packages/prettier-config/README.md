@@ -1,1 +1,3 @@
 # `@releaseband/eslint-config`
+
+Description
