@@ -3,7 +3,7 @@
   "packages": ["packages/*"],
   "command": {
     "publish": {
-      "conventionalCommits": false,
+      "conventionalCommits": true,
       "message": "chore: publish",
       "registry": "https://npm.pkg.github.com",
       "allowBranch": "master"
