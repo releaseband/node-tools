@@ -14,8 +14,7 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "main": "./index.js",
-  "type": "commonjs",
   "peerDependencies": {
-    "prettier": "2.1.2"
+    "prettier": "^2.1.2"
   }
 }
