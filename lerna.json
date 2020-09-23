@@ -7,6 +7,9 @@
       "message": "chore: publish",
       "registry": "https://npm.pkg.github.com",
       "allowBranch": "master"
+    },
+    "version": {
+      "push": false
     }
   }
 }
