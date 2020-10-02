@@ -3,17 +3,22 @@
   "private": true,
   "scripts": {
     "commit": "cz",
-    "format": "prettier --write .",
     "eslint:dump": "eslint --print-config ./.eslintrc.js",
     "type-check": "tsc --noEmit",
-    "lint": "eslint --format=codeframe '**/*.{js,jsx,ts,tsx}'",
-    "lint:fix": "npm run lint -- --fix"
+    "lint:old": "eslint --format=codeframe '**/*.{js,jsx,ts,tsx}'",
+    "format": "jarvis format",
+    "lint": "jarvis lint",
+    "fix": "jarvis fix",
+    "test": "jarvis lint-staged",
+    "l": "lint-staged"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
     "@commitlint/config-lerna-scopes": "^11.0.0",
     "@releaseband/eslint-config": "file:./packages/eslint-config",
+    "@releaseband/jarvis": "file:./packages/jarvis",
+    "@releaseband/prettier-config": "file:./packages/prettier-config",
     "commitizen": "^4.2.1",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^7.9.0",
