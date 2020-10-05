@@ -1,0 +1,24 @@
+{
+  "name": "@releaseband/commitlint-config",
+  "version": "0.0.0",
+  "description": "The Releaseband Team's commitlint configuration.",
+  "author": "The Releaseband Team",
+  "homepage": "https://releaseband.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/releaseband/node-tools.git",
+    "directory": "packages/commitlint-config"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "@commitlint/config-conventional": "^11.0.0",
+    "@commitlint/config-lerna-scopes": "^11.0.0"
+  },
+  "peerDependencies": {
+    "@commitlint/cli": "^11.0.0"
+  }
+}
