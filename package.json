@@ -5,17 +5,13 @@
     "commit": "cz",
     "eslint:dump": "eslint --print-config ./.eslintrc.js",
     "type-check": "tsc --noEmit",
-    "lint:old": "eslint --format=codeframe '**/*.{js,jsx,ts,tsx}'",
     "format": "jarvis format",
     "lint": "jarvis lint",
-    "fix": "jarvis fix",
-    "test": "jarvis lint-staged",
-    "l": "lint-staged"
+    "fix": "jarvis fix"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
-    "@commitlint/config-conventional": "^11.0.0",
-    "@commitlint/config-lerna-scopes": "^11.0.0",
+    "@releaseband/commitlint-config": "file:./packages/commitlint-config",
     "@releaseband/eslint-config": "file:./packages/eslint-config",
     "@releaseband/jarvis": "file:./packages/jarvis",
     "@releaseband/prettier-config": "file:./packages/prettier-config",
