@@ -9,10 +9,12 @@ export default class Lint extends command.Command {
 
   static strict = false;
 
+  private readonly defaultOptions: Array<string> = ['--format=codeframe'];
+
   async run(): Promise<void> {
     const { flags, argv } = this.parse(Lint);
 
-    const options: Array<string> = ['--format=codeframe'];
+    const options: Array<string> = [...this.defaultOptions];
 
     if (flags.fix) {
       options.push('--fix');
