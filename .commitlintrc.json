@@ -1,3 +1,6 @@
 {
-  "extends": ["@releaseband/commitlint-config"]
+  "extends": [
+    "@releaseband/commitlint-config",
+    "@commitlint/config-lerna-scopes"
+  ]
 }
