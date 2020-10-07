@@ -26,6 +26,6 @@ export default class Lint extends command.Command {
       options.push('.');
     }
 
-    await exec('eslint', options);
+    await exec('eslint', options, 'inherit');
   }
 }

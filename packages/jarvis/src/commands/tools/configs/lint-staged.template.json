@@ -1,0 +1,4 @@
+{
+  "*.*": ["jarvis format"],
+  "*.{js,jsx,ts,tsx}": ["jarvis lint"]
+}

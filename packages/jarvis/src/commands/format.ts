@@ -21,6 +21,6 @@ export default class Format extends command.Command {
       options.push('.');
     }
 
-    await exec('prettier', options);
+    await exec('prettier', options, 'inherit');
   }
 }
