@@ -15,8 +15,7 @@
   },
   "main": "./index.js",
   "dependencies": {
-    "@commitlint/config-conventional": "^11.0.0",
-    "@commitlint/config-lerna-scopes": "^11.0.0"
+    "@commitlint/config-conventional": "^11.0.0"
   },
   "peerDependencies": {
     "@commitlint/cli": "^11.0.0"
