@@ -1,6 +1,6 @@
 {
   "name": "@releaseband/commitlint-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The Releaseband Team's commitlint configuration.",
   "author": "The Releaseband Team",
   "homepage": "https://releaseband.com",
