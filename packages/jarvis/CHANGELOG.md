@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.1](https://github.com/releaseband/node-tools/compare/@releaseband/jarvis@0.3.0...@releaseband/jarvis@0.3.1) (2020-10-07)
+
+### Bug Fixes
+
+- **jarvis:** add copy tools config for lib ([37a0009](https://github.com/releaseband/node-tools/commit/37a000968200f42f67d294931748666124adff30))
+
 # [0.3.0](https://github.com/releaseband/node-tools/compare/@releaseband/jarvis@0.2.0...@releaseband/jarvis@0.3.0) (2020-10-07)
 
 ### Features
